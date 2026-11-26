@@ -1,3 +1,5 @@
+> **Archive Notice:** This repository has been consolidated into [coreblow/docs](https://github.com/coreblow/docs) (`docs/cookbook/`) and archived.
+
 # CoreBlow Cookbook
 
 Example apps and recipes for the CoreBlow SDK.
